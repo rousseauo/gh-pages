@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mariage Oli &amp; Julie",
+    "description": "",
+    "home_page_url": "https://rousseauo.github.io/gh-pages",
+    "feed_url": "https://rousseauo.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "rousseauo"
+    },
+    "items": [
+        {
+            "id": "https://rousseauo.github.io/gh-pages/le-lieu.html",
+            "url": "https://rousseauo.github.io/gh-pages/le-lieu.html",
+            "title": "Le lieu",
+            "summary": "Village vacances petit saguenay",
+            "content_html": "Village vacances petit saguenay",
+            "image": "https://rousseauo.github.io/gh-pages/media/posts/3/carte2011_big.fw.png",
+            "author": {
+                "name": "rousseauo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-17T15:37:53-04:00",
+            "date_modified": "2019-03-17T17:09:13-04:00"
+        },
+        {
+            "id": "https://rousseauo.github.io/gh-pages/le-menu.html",
+            "url": "https://rousseauo.github.io/gh-pages/le-menu.html",
+            "title": "Le Menu",
+            "summary": "Filet de porc",
+            "content_html": "Filet de porc",
+            "image": "https://rousseauo.github.io/gh-pages/media/posts/2/images.jpg",
+            "author": {
+                "name": "rousseauo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-17T15:23:59-04:00",
+            "date_modified": "2019-03-17T17:09:47-04:00"
+        },
+        {
+            "id": "https://rousseauo.github.io/gh-pages/save-the-date.html",
+            "url": "https://rousseauo.github.io/gh-pages/save-the-date.html",
+            "title": "Save the date !",
+            "summary": "Le mariage aura lieu le 7 septembre 2019, réservez votre weekend :)",
+            "content_html": "Le mariage aura lieu le 7 septembre 2019, réservez votre weekend :)",
+            "image": "https://rousseauo.github.io/gh-pages/media/posts/1/savethedate_v1.fw.png",
+            "author": {
+                "name": "rousseauo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-17T15:18:51-04:00",
+            "date_modified": "2019-03-17T17:10:02-04:00"
+        }
+    ]
+}

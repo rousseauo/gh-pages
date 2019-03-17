@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Mariage Oli &amp; Julie</title>
+    <link href="https://rousseauo.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://rousseauo.github.io/gh-pages" />
+    <updated>2019-03-17T17:24:17-04:00</updated>
+    <author>
+        <name>rousseauo</name>
+    </author>
+    <id>https://rousseauo.github.io/gh-pages</id>
+
+    <entry>
+        <title>Le lieu</title>
+        <author>
+            <name>rousseauo</name>
+        </author>
+        <link href="https://rousseauo.github.io/gh-pages/le-lieu.html"/>
+        <id>https://rousseauo.github.io/gh-pages/le-lieu.html</id>
+
+        <updated>2019-03-17T17:09:13-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rousseauo.github.io/gh-pages/media/posts/3/carte2011_big.fw.png" alt="" />
+                    Village vacances petit saguenay
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rousseauo.github.io/gh-pages/media/posts/3/carte2011_big.fw.png" alt="" />
+                Village vacances petit saguenay
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Le Menu</title>
+        <author>
+            <name>rousseauo</name>
+        </author>
+        <link href="https://rousseauo.github.io/gh-pages/le-menu.html"/>
+        <id>https://rousseauo.github.io/gh-pages/le-menu.html</id>
+
+        <updated>2019-03-17T17:09:47-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rousseauo.github.io/gh-pages/media/posts/2/images.jpg" alt="" />
+                    Filet de porc
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rousseauo.github.io/gh-pages/media/posts/2/images.jpg" alt="" />
+                Filet de porc
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Save the date !</title>
+        <author>
+            <name>rousseauo</name>
+        </author>
+        <link href="https://rousseauo.github.io/gh-pages/save-the-date.html"/>
+        <id>https://rousseauo.github.io/gh-pages/save-the-date.html</id>
+
+        <updated>2019-03-17T17:10:02-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rousseauo.github.io/gh-pages/media/posts/1/savethedate_v1.fw.png" alt="" />
+                    Le mariage aura lieu le 7 septembre 2019, réservez votre weekend :)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rousseauo.github.io/gh-pages/media/posts/1/savethedate_v1.fw.png" alt="" />
+                Le mariage aura lieu le 7 septembre 2019, réservez votre weekend :)
+            ]]>
+        </content>
+    </entry>
+</feed>
